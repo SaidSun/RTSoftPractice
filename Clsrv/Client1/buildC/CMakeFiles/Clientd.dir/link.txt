@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/Clientd.dir/Clientd.c.o -o Clientd 
