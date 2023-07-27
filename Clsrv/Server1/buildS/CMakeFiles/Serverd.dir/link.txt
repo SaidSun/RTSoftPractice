@@ -1,1 +1,0 @@
-/usr/bin/cc -rdynamic CMakeFiles/Serverd.dir/Serverd.c.o -o Serverd 

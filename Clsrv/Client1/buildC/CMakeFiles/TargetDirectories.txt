@@ -1,9 +1,0 @@
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/Clientd.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/package.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/package_source.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/edit_cache.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/rebuild_cache.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/list_install_components.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/install.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/install/local.dir
-/home/said/Figna/Pract/Clsrv/Client1/buildC/CMakeFiles/install/strip.dir
